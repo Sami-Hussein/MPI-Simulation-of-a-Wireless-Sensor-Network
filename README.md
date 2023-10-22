@@ -22,9 +22,9 @@ The base station serves as the central recipient of data from the nodes, logging
 
 The program can be executed with the following arguments:
 
-- <number of rows>: Specifies the number of rows in the simulated WSN grid.
-- <number of columns>: Specifies the number of columns in the simulated WSN grid.
-- <simulation time>: Represents the duration of the simulation in time units.
+- `<number of rows>`: Specifies the number of rows in the simulated WSN grid.
+- `<number of columns>`: Specifies the number of columns in the simulated WSN grid.
+- `<simulation time>`: Represents the duration of the simulation in time units.
 
 ### Example:
 If we want to simulate a 3x3 grid for 20 seconds
