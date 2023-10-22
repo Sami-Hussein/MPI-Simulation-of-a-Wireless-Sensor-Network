@@ -8,6 +8,12 @@ The layout ensures that each charging node communicates with its adjacent nodes 
 
 The base station serves as the central recipient of data from the nodes, logging the information for analysis and monitoring purposes.
 
+# EV Charing Station Logic
+![Alt text](image.png)
+
+# Base Station Logic
+![Alt text](image-1.png)
+
 ## Prerequisites
 
 - Ensure that the MPI library is installed on your system.
