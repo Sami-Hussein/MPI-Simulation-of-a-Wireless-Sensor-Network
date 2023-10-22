@@ -26,7 +26,7 @@ The program can be executed with the following arguments:
 - <number of columns>: Specifies the number of columns in the simulated WSN grid.
 - <simulation time>: Represents the duration of the simulation in time units.
 
-### For example:
+### Example:
 If we want to simulate a 3x3 grid for 20 seconds
 - mpicc wsn.c -o wsn -lm -fopenmp -Wall
 - mpirun -oversubscribe -np 10 ./wsn 3 3 20
